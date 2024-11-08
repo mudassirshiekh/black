@@ -14,6 +14,7 @@
 </p>
 
 > “Any color you like.”
+> #By Mudassir Alam
 
 _Black_ is the uncompromising Python code formatter. By using it, you agree to cede
 control over minutiae of hand-formatting. In return, _Black_ gives you speed,
